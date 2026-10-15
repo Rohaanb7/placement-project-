@@ -1,0 +1,21 @@
+{
+  "name": "placement-project",
+  "version": "1.0.0",
+  "description": "Hotel Rooms API - Assessment Set A5",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "hotel-rooms",
+    "in-memory"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
